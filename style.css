@@ -1,7 +1,7 @@
-#parent{
+#container{
    
-    display: flex;
-    flex-flow:  wrap; 
-   
+  width: 80vmin;
+  height: 80vmin;
+  display: flex;
+  flex-wrap: wrap;
   }
-  
